@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mads94i5
 - 👀 I’m interested in programming, games, music and other entertainment.
-- 🌱 I’m currently studying Computer Science and learning Java.
+- 🌱 I’m currently studying Computer Science.
 - 💞️ I’m also working on a video game with Unity and C#. 
 - My game is on itch: www.swalkstudios.itch.io/legends-of-mythology
 - 📫 How to reach me: 
